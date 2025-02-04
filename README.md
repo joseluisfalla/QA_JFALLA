@@ -1,1 +1,2 @@
-# QA_JFALLA
+## QA_JFALLA
+Welcome to Quantum Algorithms (QSEG 820)! This GitHub repository will serve as aid for our hands-on demos and practical exercises. The goal of this repository is to provide useful tips and coding practice for implementing some of the quantum algorithms you will be learning in class. While there are many software stacks for quantum computing, we will be focusing on three of the (currently) widely used ones: Qiskit, PennyLanne, and Cirq.
