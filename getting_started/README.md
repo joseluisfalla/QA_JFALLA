@@ -5,4 +5,5 @@
 
 To create a GitHub repository:
 - Go to github.com and create an account.
+  ![GitHub](/images/github.png)
 
