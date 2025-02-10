@@ -2,7 +2,8 @@
 Welcome to Quantum Algorithms (QSEG 820)! This GitHub repository will serve as aid for our hands-on demos and practical exercises. The goal of this repository is to provide useful tips and coding practice for implementing some of the quantum algorithms you will be learning in class. While there are many software stacks for quantum computing, we will be focusing on two of the (currently) widely used ones: Qiskit and PennyLanne. Furthermore, we'll be using [Google Colab](https://colab.research.google.com/) for our Jupyter notebooks.
 
 ## Submission Guidelines
-Each submission must be turned in as a directory in QA_<firstinitialLastname>.
+Each submission must be turned in as a directory in QA_&lt;FirstinitialLastname&gt;
+.
 
 Make sure to always include a README.md file for each submission. In this README.md file please include the names of the students you collaborated with or, if you decided to work alone, please state this too.
 
