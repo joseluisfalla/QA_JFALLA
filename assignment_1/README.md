@@ -8,4 +8,13 @@ First, we'll be looking at [Qiskit](https://docs.quantum.ibm.com/guides). Luckil
 - Go to Google Colab and open a new notebook. Make sure you give your notebook an appropriate name.
   ![Colab](/assignment_1/screenshots/colab_open.png)
   ![new_file](/assignment_1/screenshots/new_notebook.png)
+
+- After you finish working on your notebook, make sure you upload a copy to your GitHub repository. To do this, under "File", select "Save a copy in GitHub".
+  ![save](/assignment_1/screenshots/save.png)
+
+- If it's your first time integrating Google Colab to GitHub, you'll be asked for permission. You can go ahead and grant permission.
+  ![permission](/assignment_1/screenshots/grant_permission.png)
+
+- When you're saving your notebook to GitHub, make sure you clearly specify the appropriate folder within the repository. See how in my example, I'm uploading my notebook to the "assignment_1".
+  ![save_to_github](/assignment_1/screenshots/save_to_github.png)
   
