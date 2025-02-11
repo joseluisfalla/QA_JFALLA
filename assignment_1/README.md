@@ -19,3 +19,5 @@ First, we'll be looking at [Qiskit](https://docs.quantum.ibm.com/guides). Luckil
   ![save_to_github](/assignment_1/screenshots/save.png)
   
 ## **Important**
+
+You'll have access to all Colab notebooks in this repository. Whenever you open one of these from GitHub (you'll
