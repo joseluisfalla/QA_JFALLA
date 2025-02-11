@@ -5,5 +5,7 @@ First, we'll be looking at [Qiskit](https://docs.quantum.ibm.com/guides). Luckil
 
 ## Working on Google Colab
 
-- Open a new Google Colab notebook.
-- 
+- Go to Google Colab and open a new notebook. Make sure you give your notebook an appropriate name.
+  ![Colab](/assignment_1/images/colab_open.png)
+  ![new_file](/assignment_1/images/new_notebook.png)
+  
