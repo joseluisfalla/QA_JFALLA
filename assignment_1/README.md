@@ -18,6 +18,8 @@ First, we'll be looking at [Qiskit](https://docs.quantum.ibm.com/guides). Luckil
 - When you're saving your notebook to GitHub, make sure you clearly specify the appropriate folder within the repository. See how in my example, I'm uploading my notebook to the "assignment_1". Make sure that "Include a link to Collab" is checked.
   ![save_to_github](/assignment_1/screenshots/save.png)
   
-## **Important**
+- You'll have access to all Colab notebooks in this repository. To open them in Colab, just click on "Open in Colab" at the top left corner.
+  ![Colab_open](/assignment_1/screenshots/open_colab.png)
 
-You'll have access to all Colab notebooks in this repository. Whenever you open one of these from GitHub (you'll
+## **Important**
+Whenever you open one of these notebooks from GitHub, make sure that you first save a copy to your Drive before editing. That will be the copy you work on, so please **do not** edit in my Colab file.
